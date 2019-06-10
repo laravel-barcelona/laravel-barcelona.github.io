@@ -1,1 +1,3 @@
-# laravel-barcelona.github.io
+# Laravel Barcelona
+
+Visit https://laravel.barcelona 
